@@ -1,7 +1,7 @@
 #!/bin/sh
 # main.command
 # Comfy Launcher for Mac MLX hardware by Tristan John.
-# By default, his script assumes your working conda environment is labeled 'comfyui'
+# By default, this script assumes your working conda environment is labeled 'comfyui'
 # and your working folder is labeled 'ComfyUI'.
 # You can make changes here to match your unique installation.
 
